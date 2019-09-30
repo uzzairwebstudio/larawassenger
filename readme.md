@@ -1,6 +1,6 @@
 # installation
 
-composer require uzzaircode/larawassenger
+composer require uzzairwebstudio/larawassenger
 
 php artisan vendor:publish --tag=larawassenger
 

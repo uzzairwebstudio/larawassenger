@@ -1,6 +1,6 @@
 <?php
 
-namespace Uzzaircode\Larawassenger;
+namespace UzzairWebStudio\Larawassenger;
 
 use Illuminate\Support\ServiceProvider;
 

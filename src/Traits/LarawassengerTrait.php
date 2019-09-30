@@ -1,6 +1,6 @@
 <?php
 
-namespace Uzzaircode\Larawassenger\Traits;
+namespace UzzairWebstudio\Larawassenger\Traits;
 
 trait LarawassengerTrait{
 

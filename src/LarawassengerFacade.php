@@ -1,5 +1,5 @@
 <?php
-namespace Uzzaircode\Larawassenger;
+namespace UzzairWebstudio\Larawassenger;
 
 use Illuminate\Support\Facades\Facade;
 
