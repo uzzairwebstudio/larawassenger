@@ -28,9 +28,6 @@
             "aliases": {
                 "Larawassenger": "UzzairWebStudio\\Larawassenger\\LarawassengerFacade"
             }
-        },
-        "branch-alias": {
-            "dev-master": "1.0"
         }
     }
 }
